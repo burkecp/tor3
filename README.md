@@ -17,4 +17,4 @@ An updated TOR proxy client library for python3.
 
 6. Save and exit
 
-7. Start tor
+7. Restart tor
