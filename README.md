@@ -1,10 +1,10 @@
 # tor3
 
-An updated TOR proxy client library for python3.
+An updated TOR proxy client library for python3
 
 ## installation
 
-1. Download the TOR browser application.
+1. Download the TOR browser application
 
 2. Generate your HashedControlPassword by running
 ```tor --hash-password YOURPASSWORD```
