@@ -11,9 +11,9 @@ An updated TOR proxy client library for python3.
 
 3. Edit your torrc file, which is usually located in `/etc/tor`
 
-4. Uncommenting your `HashedControlPassword` (line 60) and replace the password with the one generated above
+4. Uncomment your `HashedControlPassword` (line 60) and replace the password with the one generated above
 
-5. Uncomment your `ControlPort` (line 57) and replace with the proper port.
+5. Uncomment your `ControlPort` (line 57) and replace with the proper port (see [control-spec.txt](https://gitweb.torproject.org/torspec.git/tree/control-spec.txt) if you are unsure which port to use)
 
 6. Save and exit
 
