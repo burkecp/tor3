@@ -1,1 +1,1 @@
-from tor import *
+from tor import Tor, TorControl
